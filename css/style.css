@@ -34,7 +34,7 @@ body{
     display: grid;
     gap: 1rem;
     grid-auto-rows: auto;
-    grid-template-columns: repeat(auto-fit, minmax(28rem, 2fr))
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr))
    
     
    
